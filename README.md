@@ -1,2 +1,4 @@
 # zukeeper
-This is a new repository by @grantzu. Today's weather is hot!!
+
+This is a new repository by @grantzu. Today's weather is pleasant!!
+
